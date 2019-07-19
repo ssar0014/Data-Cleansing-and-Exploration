@@ -25,3 +25,6 @@ The second part reads a CSV data file with missing value errors, makes a Linear 
 The third part reads a CSV data file with outlier errors, lists out the different outliers, removes them, and then writes the cleaned data to a new CSV file.
 
 There are 3 input files with different kinds of errors, which are read, worked on, and returned as 3 output files with the errors cleaned.
+
+
+I have included a jupyter notebook with detailed code and comments
